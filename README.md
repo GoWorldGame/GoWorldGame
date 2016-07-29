@@ -5,4 +5,4 @@
 ## Setup
 
 + set GOPATH
-`go get github.com/hajimehoshi/ebiten`
++`go get github.com/hajimehoshi/ebiten`
